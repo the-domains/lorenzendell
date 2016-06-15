@@ -1,4 +1,4 @@
-name: Lorenzendell
+name: Lorenzendelle
 favicon: null
 layout_spectrum: 0.45865651103667915
 typography_spectrum: 0.49794786097481847
@@ -22,7 +22,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9855204958003014
+  brandStrength: 0
   lightness: 0.05194020248018205
   saturation: 0.49077688879333436
   rhythmicContrast: 0.5691248239018023
